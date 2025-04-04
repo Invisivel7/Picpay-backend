@@ -1,0 +1,3 @@
+2025-04-04 11:17:42.545527+01:00 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLTimeoutException: Timeout trying to lock table "WALLETS"; SQL statement:
+UPDATE "WALLETS" SET "FULL_NAME" = ?, "CPF" = ?, "EMAIL" = ?, "PASSWORD" = ?, "TYPE" = ?, "BALANCE" = ? WHERE "WALLETS"."ID" = ? [50200-232]
