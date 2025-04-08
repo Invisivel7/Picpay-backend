@@ -2,7 +2,7 @@
   PicPay Desafio Backend Sênior
 </h1>
 
-Projeto criado para solucionar [esse desafio](https://github.com/PicPay/picpay-desafio-backend?tab=readme-ov-file) para uma vaga backend com perfil sênior. A solução desenvolvida é basicamente uma versão simplificada do PicPay.
+Projeto criado para solucionar [esse desafio](https://github.com/Invisivel7/Picpay-backend) para uma vaga backend com perfil sênior. A solução desenvolvida é basicamente uma versão simplificada do PicPay.
 
 ## Tecnologias
  
