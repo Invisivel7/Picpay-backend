@@ -17,7 +17,7 @@ Projeto criado para solucionar [esse desafio](https://github.com/PicPay/picpay-d
 
 - Clonar repositório git:
 ```
-git clone https://github.com/Invisivel7/Picpay-backend
+git clone https://github.com/Invisivel7/Picpay-backend.git
 ```
 - Executar o Kafka:
 ```
